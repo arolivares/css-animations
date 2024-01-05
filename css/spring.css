@@ -4,15 +4,15 @@
     box-sizing: border-box;
 }
 h2{
-    font-family: 'Rubik Scribble', sans-serif;
-    color: white;
+    font-family: 'Rye', sans-serif;
+    color: rgb(38, 116, 36);
 }
 
 section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: radial-gradient(#b0e2e9,#3897b4);
+    background: radial-gradient(#96eb8f,#31924e);
     overflow: hidden;
     display: flex;
     justify-content: center;

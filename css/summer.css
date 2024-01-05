@@ -4,15 +4,16 @@
     box-sizing: border-box;
 }
 h2{
-    font-family: 'Rubik Scribble', sans-serif;
-    color: white;
+    font-family: 'Rampart One', sans-serif;
+    color: rgb(0, 0, 0);
+    
 }
 
 section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: radial-gradient(#b0e2e9,#3897b4);
+    background: radial-gradient(#aefaff,#2963b9);
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -130,4 +131,3 @@ section .set div:nth-child(8){
     transform: scale(0.8)  rotateY(180deg);
     filter: blur(4px);
 }
- 
