@@ -142,8 +142,6 @@ section .set div:nth-child(8){
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    
-   
 }
 
 .navbar a{
@@ -169,3 +167,4 @@ section .set div:nth-child(8){
     width: 100%;
     
  }
+ 
